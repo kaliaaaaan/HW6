@@ -1,0 +1,8 @@
+build/
+gradle/wrapper
+/.idea
+/.gradle
+gradlew.bat
+gradlew
+HW6.iml
+out/
